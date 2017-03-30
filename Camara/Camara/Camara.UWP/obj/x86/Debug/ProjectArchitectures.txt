@@ -1,0 +1,1 @@
+C:\Users\sistemas\Source\Repos\pruebas\Camara\Camara\Camara.UWP\Camara.UWP.csproj;x86
